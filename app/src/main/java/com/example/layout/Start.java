@@ -13,7 +13,7 @@ public class Start extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_start);
 
-        Button btn = findViewById(R.id.btnStart);
+        Button btn = findViewById(R.id.Start);
         btn.setOnClickListener(v -> startActivity(new Intent(Start.this,
                 MainActivity.class)));
     }
