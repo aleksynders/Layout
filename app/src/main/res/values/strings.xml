@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">App name</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur</string>
+    <string name="product">Product of</string>
+    <string name="name">Gromov A.</string>
+    <string name="start">Log In</string>
+    <string name="not_account">Don\'t have a account? Let\'s</string>
+    <string name="reg">Register</string>
+    <string name="email">Enter Email  Phone Number</string>
+    <string name="pass">Password</string>
+    <string name="for_password">Forget Password?</string>
+    <string name="remember">Remember Password</string>
+    <string name="or">OR</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="conditions">I agree with terms &amp; conditions</string>
+    <string name="already_register">Already Registered? Let\'s</string>
+    <string name="congrats">Congrats</string>
+    <string name="created">Account Created\nSuccessfully</string>
+    <string name="get">Get Started</string>
+</resources>
